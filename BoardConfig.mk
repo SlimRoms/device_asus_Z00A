@@ -27,4 +27,4 @@ COMMON_GLOBAL_CFLAGS += -DDEFAULT_DRM_FB_WIDTH=1080  \
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 59261286400
 
 # Use the non-open-source parts, if they're present
--include vendor/asus/Z00A/BoardConfigVendor.mk
+-include vendor/asus/z00a/BoardConfigVendor.mk
