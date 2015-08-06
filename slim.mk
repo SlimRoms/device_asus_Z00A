@@ -8,12 +8,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/asus/Z00A/device.mk)
+$(call inherit-product, device/asus/z00a/device.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
 
-DEVICE_PACKAGE_OVERLAYS += device/asus/Z00A/overlay
+DEVICE_PACKAGE_OVERLAYS += device/asus/z00a/overlay
 
 PRODUCT_RUNTIMES := runtime_libart_default
 
