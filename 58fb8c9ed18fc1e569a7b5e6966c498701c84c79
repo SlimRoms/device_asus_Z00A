@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a51691d_6f9581e3",
+        "filename": "device.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2015-08-09T02:34:00Z",
+      "side": 1,
+      "message": "wops",
+      "range": {
+        "startLine": 47,
+        "startChar": 51,
+        "endLine": 47,
+        "endChar": 55
+      },
+      "revId": "58fb8c9ed18fc1e569a7b5e6966c498701c84c79",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a51691d_affb7946",
         "filename": "slim.dependencies",
         "patchSetId": 6
